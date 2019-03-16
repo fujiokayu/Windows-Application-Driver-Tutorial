@@ -56,7 +56,7 @@ alarm_clock_session.quit()
 ## Run your test
 
 ```
-py alarm_clock_test.py
+python alarm_clock_test.py
 ```
 
 * * *
